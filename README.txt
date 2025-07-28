@@ -43,7 +43,7 @@ Car_Number_Plate_Detection/
 ### 1. Clone the repo or download the ZIP
 
 ```bash
-git clone https://github.com/yourusername/Car-Number-Plate-Detection.git
+git clone https://github.com/Raghavv7989/Car-Number-Plate-Detection.git
 cd Car-Number-Plate-Detection
 2. Install Python dependencies
 pip install -r requirements.txt
